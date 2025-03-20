@@ -45,8 +45,8 @@ I specialize in **Computer Vision, NLP, and MLOps**, and I enjoy building scalab
 
 ## ⭐ GitHub Stats  
 
-![Pavan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pavanpajjuri&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pavanpajjuri&layout=compact&theme=radical)  
+![Pavan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pavanpajjuri&show_icons=true&theme=light)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pavanpajjuri&layout=compact&theme=light)  
 
 ---
 
